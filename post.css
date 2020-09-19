@@ -1,0 +1,15 @@
+li.link {
+  margin-bottom: 10px;
+}
+
+li.link span {
+  color: blue;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+li.link span:hover {
+  color: #00f;
+  text-decoration: underline;
+}
